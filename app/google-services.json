@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062318456775",
+    "firebase_url": "https://anonymousauth-68b6d.firebaseio.com",
+    "project_id": "anonymousauth-68b6d",
+    "storage_bucket": "anonymousauth-68b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062318456775:android:e52256e72d2e3efdd7e3e2",
+        "android_client_info": {
+          "package_name": "com.toon.anonymousauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062318456775-hh4vi1rki5g775p7jl7rog8avvm17kig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toon.anonymousauth",
+            "certificate_hash": "2b0d57e42ae02c147dbb4fd6fec71a88aa0192fb"
+          }
+        },
+        {
+          "client_id": "1062318456775-amcann5nkg8g2bc0g89ari8bv80m5p8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfPJE-geaVSTT1BUi8gSfe03I3pgA5q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062318456775-amcann5nkg8g2bc0g89ari8bv80m5p8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
